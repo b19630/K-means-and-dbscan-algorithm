@@ -6,5 +6,6 @@
    b)DBSCAN(density based spatial clustering of application with noise) hierarchical clustering drawbacks,dbscan parameter-epsilon distance,minpts,border points 
    and inertia(for performace of dbscan) ,step involving in dbscan algorithm,pros and cons <br /><br />
    ### For hands on 
-   1)k-means algor
+   1)k-means algorithm on university dataset
+   2)dabscan algorithm on wholsales
    
